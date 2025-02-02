@@ -19,3 +19,4 @@ print(str_1 == str_2)
 print(str_1 == str_4)
 print(str_1 in str_2)#True
 print(str_1 not in str_2)#false
+#string-->Sq. char
